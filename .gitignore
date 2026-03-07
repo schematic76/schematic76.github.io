@@ -33,3 +33,4 @@ go.work.sum
 
 public/
 resources/
+content/.DS_Store

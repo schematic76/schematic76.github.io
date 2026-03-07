@@ -1,6 +1,6 @@
 ---
-title: "Chasing the geease at dusk"
-date: 2026-03-07T15:01:36-05:00
+title: "Chasing geease at dusk"
+date: 2025-10-07
 draft: false
 description: ""
 tags: ["fpv", "flight footage"]
