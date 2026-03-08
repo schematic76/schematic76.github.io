@@ -1,5 +1,5 @@
 ---
-title: "Chasing geease at dusk"
+title: "Chasing geese at dusk"
 date: 2025-10-07
 draft: false
 description: ""
